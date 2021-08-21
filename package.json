@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "cpu-percentage": "^1.0.3",
+    "express": "^4.17.1",
+    "os": "^0.1.1",
+    "os-utils": "^0.0.14",
+    "twit": "^2.2.11"
+  }
+}
